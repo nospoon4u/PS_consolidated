@@ -1,4 +1,6 @@
 #inital commit
-#script2.ps1
+#script3.ps1
 #
-write-host "Hello world"
+for ($i = 1;$i -lt 20;$i++)
+{write-host "Hello world"}
+
